@@ -15,11 +15,11 @@ export class AppComponent {
   graph2 = '../assets/graph2.png';
   graph2Hover = '../assets/graph2_hover_test.png';
   graph3 = '../assets/graph3.png';
-  // graph3Hover = '../assets/graph3_hover.png';
+  graph3Hover = '../assets/graph3_hover_temp.png';
   graph4 = '../assets/graph4.png';
-  // graph4Hover = '../assets/graph4_hover.png';
+  graph4Hover = '../assets/graph4_hover_temp.png';
   graph5 = '../assets/graph5.png';
-  // graph5Hover = '../assets/graph5_hover.png';
+  graph5Hover = '../assets/graph5_hover_temp.png';
 
 
   // onMouseOver(): void {
