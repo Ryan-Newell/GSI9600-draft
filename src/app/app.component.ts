@@ -13,13 +13,15 @@ export class AppComponent {
   graph1 = '../assets/graph1.png';
   graph1Hover = '../assets/graph1_hover.png';
   graph2 = '../assets/graph2.png';
-  graph2Hover = '../assets/graph2_hover_test.png';
+  graph2Hover = '../assets/graph2_hover.png';
   graph3 = '../assets/graph3.png';
-  graph3Hover = '../assets/graph3_hover_temp.png';
+  graph3Hover = '../assets/graph3_hover.png';
   graph4 = '../assets/graph4.png';
-  graph4Hover = '../assets/graph4_hover_temp.png';
+  graph4Hover = '../assets/graph4_hover.png';
   graph5 = '../assets/graph5.png';
-  graph5Hover = '../assets/graph5_hover_temp.png';
+  graph5Hover = '../assets/graph5_hover.png';
+  graph6 = '../assets/graph6.png';
+  graph6Hover = '../assets/graph6_hover.png';
 
 
   // onMouseOver(): void {
