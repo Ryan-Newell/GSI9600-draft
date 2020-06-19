@@ -13,6 +13,27 @@
 .hover_img:hover {
   opacity: 1.0;
 }
+#hover_img_full {
+  visibility: hidden;
+}
+
+#img_see_all {
+  opacity: 0.0;
+}
+
+#img_see_all:hover + #hover_img_full {
+  visibility: visible;
+}
+/*#img_see_all:hover {*/
+/*  opacity: 1.0;*/
+/*}*/
+
+/*.hover_img_full:hover {*/
+/*  !*visibility: visible;*!*/
+/*  opacity: 1.0;*/
+/*}*/
+
+
 /*#hover_img {*/
 /*  opacity: 0.0;*/
 /*}*/
