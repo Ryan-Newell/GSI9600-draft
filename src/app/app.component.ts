@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Sample Text';
   graph1 = '../assets/graph1.png';
-  graph1Hover = '../assets/graph1_hover.png';
+  // graph1Hover = '../assets/graph1_hover.png';
   graph2 = '../assets/graph2.png';
   graph2Hover = '../assets/graph2_hover.png';
   graph3 = '../assets/graph3.png';
@@ -18,6 +18,8 @@ export class AppComponent {
   graph5 = '../assets/graph5.png';
   graph5Hover = '../assets/graph5_hover.png';
   graph6 = '../assets/graph6.png';
+  graph6Hover = '../assets/graph6_hover.png';
+  graph7 = '../assets/graph7.png';
   graphHoverFull = '../assets/graph_hover_full.png';
 
   // onMouseOver(): void {
