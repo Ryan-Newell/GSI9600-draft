@@ -24,6 +24,7 @@
 #img_see_all:hover + #hover_img_full {
   visibility: visible;
 }
+
 /*#img_see_all:hover {*/
 /*  opacity: 1.0;*/
 /*}*/
